@@ -8,6 +8,8 @@ Se divide en:
 
 2- CPU = córtex cerebral (procesamiento).
 
-3- ARIA = consciencia especializada (sistema de asistencia artificial personalizado).
+3- NAS = Hipocampo (alojamiento de memoria)
 
-4- Robot = extensiones físicas intercambiables en funcion de las necesidades del usuario.
+4- ARIA = consciencia especializada (sistema de asistencia artificial personalizado).
+
+5- Robot = extensiones físicas intercambiables en funcion de las necesidades del usuario.
