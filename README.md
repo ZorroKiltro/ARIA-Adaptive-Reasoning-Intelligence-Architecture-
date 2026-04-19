@@ -12,4 +12,4 @@ Se divide en:
 
 4- ARIA = consciencia especializada (sistema de asistencia artificial personalizado).
 
-5- Robot = extensiones físicas intercambiables en funcion de las necesidades del usuario.
+5- Droid = extensiones físicas intercambiables en funcion de las necesidades del usuario.
